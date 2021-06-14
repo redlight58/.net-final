@@ -1,0 +1,32 @@
+[
+    {
+        "No":"1650",
+        "Ad":"Ezgi",
+        "Soyad":"Ezgiler",
+        "Yas":"20",
+        "D.Tarihi":"20/02/2001",
+        "Bolum":"Bilgisayar Agları",
+        "Sınıf":"B",
+        "Ortalama":"70"
+    },
+    {
+        "No":"1660",
+        "Ad":"Oğuz",
+        "Soyad":"Ozan",
+        "Yas":"20",
+        "D.Tarihi":"24/03/2001",
+        "Bolum":"Bilgisayar Agları",
+        "Sınıf":"B",
+        "Ortalama":"71"
+    },
+    {
+    "No":"1640",
+        "Ad":"Sezgi",
+        "Soyad":"Sezen",
+        "Yas":"20",
+        "D.Tarihi":"11/01/2001",
+        "Bolum":"Bilgisayar Agları",
+        "Sınıf":"B",
+        "Ortalama":"75"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "kNo":"1650",
+        "Ad":"Ezgi",
+        "Soyad":"Ezgiler",
+        "Yas":"33",
+        "D.Tarihi":"20/02/1988",
+        "Departman":"Ogrenci",
+        "Baslama Tarihi":"12/02/2018"
+        
+    },
+    {   "kNo":"1660",
+        "Ad":"Oğuz",
+        "Soyad":"Ozan",
+        "Yas":"32",
+        "D.Tarihi":"24/03/1989",
+        "Departman":"Ogrenci",
+        "Baslama Tarihi":"12/03/2018"
+
+        
+    },
+    {
+        "kNo":"1640",
+        "Ad":"Sezgi",
+        "Soyad":"Sezen",
+        "Yas":"30",
+        "D.Tarihi":"11/01/1991",
+        "Departman":"Ogrenci",
+        "Baslama Tarihi":"12/02/2018"
+    
+    }
+]

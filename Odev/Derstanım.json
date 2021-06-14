@@ -1,0 +1,27 @@
+[
+    {
+        "Dersno":"12",
+        "Ad":"Bilgisayar Agları",
+        "Acıklama":"Bilgisayar Agları Ogrenimi",
+        "Gorevli":"Ersin Ak"
+        
+        
+    },
+    {   "Dersno":"13",
+        "Ad":"Bilgisayar Programcılıgı",
+        "Acıklama":"Bilgisayar Programları Ogrenimi",
+        "Gorevli":"Sezgi Sezen"
+        
+
+        
+    },
+    {
+        "Dersno":"14",
+        "Ad":"Bilgisayar Muhendisliği",
+        "Acıklama":"Bilgisayar Donanım ve yazılım Ogrenimi",
+        "Gorevli":"Ezgi Ezgiler"
+        
+        
+    
+    }
+]
